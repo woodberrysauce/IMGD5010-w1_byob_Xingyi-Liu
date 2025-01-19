@@ -13,7 +13,7 @@ In the brush state, coloring the cell which specified by command.
 
 
 ## Command List:
-###Color list:
+### Color list:
 0000 - red
 0001 - orange
 0010 - yellow
@@ -33,7 +33,7 @@ In the brush state, coloring the cell which specified by command.
 1111 - switch
 ![palette list](https://github.com/user-attachments/assets/2bdd5834-0207-4f8d-b1fd-ecc62c62fdf0)
 
-###Brush list:
+### Brush list:
 0000 - coloring cell 1
 0001 - coloring cell 2
 0010 - coloring cell 3
