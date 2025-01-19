@@ -15,41 +15,73 @@ In the brush state, coloring the cell which specified by command.
 ## Command List:
 ### Color list:
 0000 - red
+
 0001 - orange
+
 0010 - yellow
+
 0011 - light green
+
 0100 - green
+
 0101 - cyan
+
 0110 - blue
+
 0111 - purple
+
 1000 - magenta
+
 1001 - pink
+
 1010 - gray 
+
 1011 - black
+
 1100 - white 
+
 1101 - null 
 (transparent/use it as eraser)
+
 1110 - fill line
+
 1111 - switch
+
 ![palette list](https://github.com/user-attachments/assets/2bdd5834-0207-4f8d-b1fd-ecc62c62fdf0)
 
 ### Brush list:
 0000 - coloring cell 1
+
 0001 - coloring cell 2
+
 0010 - coloring cell 3
+
 0011 - coloring cell 4
+
 0100 - coloring cell 5
+
 0101 - coloring cell 6
+
 0110 - coloring cell 7
+
 0111 - coloring cell 8
+
 1000 - coloring cell 9
+
 1001 - coloring cell 10
+
 1010 - coloring cell 11
+
 1011 - coloring cell 12
+
 1100 - coloring cell 13
+
 1101 - coloring cell 14
+
 1110 - next line
+
 1111 - switch
+
 ![brush list](https://github.com/user-attachments/assets/f52af3fe-ba32-4261-825b-ae16c52a42d9)
 
 
